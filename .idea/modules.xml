@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Oca_Wiederholung.iml" filepath="$PROJECT_DIR$/Oca_Wiederholung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ordenar numeros/ordenar numeros.iml" filepath="$PROJECT_DIR$/ordenar numeros/ordenar numeros.iml" />
+    </modules>
+  </component>
+</project>
